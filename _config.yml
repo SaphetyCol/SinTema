@@ -1,14 +1,14 @@
 # Book settings
-title: Introducción a la Programación
-author: Mario Sánchez
+title: Documentacion tecnica para nomina electronica
+author: Felipe Serrano
 logo: imagenes/uniandes_logo.jpeg
-copyright: Agosto de 2020
+copyright: Marzo del 2021
 
 html:
   navbar_number_sections: true
   use_edit_page_button: false
-  extra_footer: <a href="http://sistemas.uniandes.edu.co">Departamento de Ingeniería de Sistemas y Computación</a> - Universidad de los Andes
+  extra_footer: <a href="https://www.saphety.com/">Nomina Electronica</a> - Saphety Colombia
   google_analytics_id: ""
   home_page_in_navbar: true
-  baseurl: http://cupi2-ip.github.io/IPBook
+  baseurl: https://saphetycol.github.io/SinTema/portada.html
 
